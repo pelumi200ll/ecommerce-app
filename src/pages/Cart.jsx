@@ -21,7 +21,7 @@ function Cart() {
         flex="hidden"
         new_style="w-full lg:w-[50%] lg:right-[10%]"
         banner={`Home/ Cart`}
-        img="/img/w5.jpg"
+        img="/img/c8.jpg"
       />
       <Container className={"mt-5 mb-12"}>
         <div className="overflow-auto lg:overflow-hidden">

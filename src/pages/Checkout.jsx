@@ -31,7 +31,7 @@ function Checkout() {
         flex="hidden"
         new_style="w-full lg:w-[50%] lg:right-[10%]"
         banner={`Home/ Chekcout`}
-        img="/img/w5.jpg"
+        img="/img/c5.jpg"
       />
       <Container className={"mt-5 mb-12"}>
         <div className="grid grid-cols-1 md:grid-cols-2 justify-center gap-3">
