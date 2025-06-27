@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router";
 import { ToastContainer } from 'react-toastify';
-import Header from "./components/Header";
+import Header from './components/Header'
 import Carousel from "./components/Carousel";
 import About from "./components/About";
 import { ProductProvider } from "./context/ProductContext";
