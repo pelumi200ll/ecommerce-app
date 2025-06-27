@@ -1,0 +1,175 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Lambogini",
+      "price": 300,
+      "img": "img/c1.jpg",
+      "featured": true,
+      "trending": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "2",
+      "name": "Bugatti",
+      "price": 130,
+      "img": "/img/c2.jpg",
+      "featured": true,
+      "trending": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "3",
+      "name": "Ferarri",
+      "price": 190,
+      "img": "/img/c3.jpg",
+      "featured": true,
+      "trending": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "4",
+      "name": "Lambogini",
+      "price": 240,
+      "img": "/img/c4.jpg",
+      "featured": true,
+      "trending": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "5",
+      "name": "Ferarri",
+      "price": 150,
+      "img": "/img/c5.jpg",
+      "featured": true,
+      "trending": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "6",
+      "name": "Ferarri",
+      "price": 280,
+      "img": "/img/c6.jpg",
+      "featured": true,
+      "trending": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "7",
+      "name": "Porche",
+      "price": 270,
+      "img": "/img/c7.jpg",
+      "featured": true,
+      "trending": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "8",
+      "name": "Lambogini",
+      "price": 190,
+      "img": "/img/c8.jpg",
+      "featured": true,
+      "trending": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "9",
+      "name": "Chevrolet",
+      "price": 320,
+      "img": "/img/c9.jpg",
+      "featured": false,
+      "trending": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "10",
+      "name": "Lambogini",
+      "price": 230,
+      "img": "/img/c10.jpg",
+      "featured": false,
+      "trending": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "11",
+      "name": "Hellcat",
+      "price": 250,
+      "img": "/img/c11.jpg",
+      "featured": false,
+      "trending": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "12",
+      "name": "Hellcat",
+      "price": 170,
+      "img": "/img/c12.jpg",
+      "featured": false,
+      "trending": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "13",
+      "name": "Hellcat",
+      "price": 300,
+      "img": "/img/c13.jpg",
+      "featured": false,
+      "trending": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "14",
+      "name": "Chevrolet",
+      "price": 300,
+      "img": "/img/c14.jpg",
+      "featured": false,
+      "trending": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "15",
+      "name": "BMW",
+      "price": 300,
+      "img": "/img/c15.jpg",
+      "featured": false,
+      "trending": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    },
+    {
+      "id": "16",
+      "name": "BMW",
+      "price": 300,
+      "img": "/img/c16.jpg",
+      "featured": false,
+      "trending": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium alias suscipit ratione ab beatae quas."
+    }
+  ],
+
+  "cart": {
+    "products": [
+      {
+        "id": "1",
+        "product": {
+          "id": "1",
+          "name": "Premium Wristwatch 1",
+          "price": 300,
+          "img": "/img/w1.jpg"
+        },
+        "quantity": 2,
+        "amount": 600
+      },
+      {
+        "id": "2",
+        "product": {
+          "id": "3",
+          "name": "Luxury Wristwatch 3",
+          "price": 190,
+          "img": "/img/w3.jpg"
+        },
+        "quantity": 1,
+        "amount": 190
+      }
+    ]
+  }
+}
